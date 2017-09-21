@@ -6,4 +6,4 @@
 
 <img src ="https://github.com/BorteauX/MaoAdopt/blob/master/logo.jpg?raw=true" width="450px"></img>
 
-<img src ="https://raw.githubusercontent.com/BorteauX/MaoAdopt/master/qrcode.jpg" width ="450px")</img>
+<img src ="https://github.com/BorteauX/MaoAdopt/blob/master/qrcode.jpg?raw=true" width ="450px"></img>
