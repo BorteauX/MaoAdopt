@@ -10,3 +10,4 @@
 
 <h2>首頁</h2>
 <img src ="https://github.com/BorteauX/MaoAdopt/blob/master/adoption.png?raw=true" width="400px"><img>
+<h4>整個APP用暖色系</h4>
