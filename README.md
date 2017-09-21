@@ -5,5 +5,4 @@
 <br />
 
 ![image](https://raw.githubusercontent.com/BorteauX/MaoAdopt/master/logo.jpg)
-
 ![image](https://raw.githubusercontent.com/BorteauX/MaoAdopt/master/qrcode.jpg)
