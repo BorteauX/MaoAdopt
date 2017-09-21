@@ -12,4 +12,10 @@
 <img src ="https://github.com/BorteauX/MaoAdopt/blob/master/adoption.png?raw=true" width="400px"><img>
 
 <h2>注意事項</h2><h4>按下【NOTICE】按鈕，告知使用者若欲認養流浪動物，須具備及注意哪些條件</h4>
-<img src = "https://github.com/BorteauX/MaoAdopt/blob/master/21764160_1894420527241941_709853819_o.png?raw=true"></img>
+<img src = "https://github.com/BorteauX/MaoAdopt/blob/master/21764160_1894420527241941_709853819_o.png?raw=true" width="400px"></img>
+
+<h2>注意事項</h2><h4>按下【NOTICE】按鈕，告知使用者若欲認養流浪動物，須具備及注意哪些條件</h4>
+<img src = "https://github.com/BorteauX/MaoAdopt/blob/master/21764160_1894420527241941_709853819_o.png?raw=true" width="400px"></img>
+
+<h2>動物列表</h2><h4>按下【ENTER】按鈕，能瀏覽目前待領養的動物簡介</h4>
+<img src = "https://github.com/BorteauX/MaoAdopt/blob/master/21618433_1894420543908606_826098220_o.png?raw=true" width="400px"></img>
