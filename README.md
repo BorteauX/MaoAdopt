@@ -14,8 +14,12 @@
 <h2>注意事項</h2><h4>按下【NOTICE】按鈕，告知使用者若欲認養流浪動物，須具備及注意哪些條件</h4>
 <img src = "https://github.com/BorteauX/MaoAdopt/blob/master/21764160_1894420527241941_709853819_o.png?raw=true" width="400px"></img>
 
-<h2>注意事項</h2><h4>按下【NOTICE】按鈕，告知使用者若欲認養流浪動物，須具備及注意哪些條件</h4>
-<img src = "https://github.com/BorteauX/MaoAdopt/blob/master/21764160_1894420527241941_709853819_o.png?raw=true" width="400px"></img>
-
 <h2>動物列表</h2><h4>按下【ENTER】按鈕，能瀏覽目前待領養的動物簡介</h4>
 <img src = "https://github.com/BorteauX/MaoAdopt/blob/master/21618433_1894420543908606_826098220_o.png?raw=true" width="400px"></img>
+
+<h2>詳細資訊</h2><h4>點擊欲了解的動物列表，就能瀏覽目前待領養動物的詳細資訊</h4>
+<img src = "https://github.com/BorteauX/MaoAdopt/blob/master/21951495_1900769959940331_1446808224_o.jpg?raw=true" width="400px"></img>
+
+<h2>臉書分享</h2><h4>點擊畫面右上角的臉書圖示，就可分享至臉書的個人專頁上，讓更多毛小孩被看見呦~~</h4>
+<img src = "https://github.com/BorteauX/MaoAdopt/blob/master/21951495_1900769959940331_1446808224_o.jpg?raw=true" width="400px"></img>
+<img src =""https://github.com/BorteauX/MaoAdopt/blob/master/21908858_1900769766607017_1732353794_o.jpg?raw=true width ="400px"></img>
