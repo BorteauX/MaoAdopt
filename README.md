@@ -10,4 +10,4 @@
 
 <h2>首頁</h2>
 <img src ="https://github.com/BorteauX/MaoAdopt/blob/master/adoption.png?raw=true" width="400px"><img>
-<h4>整個APP用暖色系</h4>
+整個APP用暖色系營造出舒適的感覺，讓使用者在瀏覽毛小孩的檔案時也能感到窩心。
