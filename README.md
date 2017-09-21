@@ -6,3 +6,7 @@
 
 <img src ="https://github.com/BorteauX/MaoAdopt/blob/master/logo.jpg?raw=true" width="400px"></img>
 <img src ="https://github.com/BorteauX/MaoAdopt/blob/master/qrcode.jpg?raw=true" width ="350px"></img>
+
+
+<h2>首頁</h2>
+<img src ="https://github.com/BorteauX/MaoAdopt/blob/master/adoption.png?raw=true"><img>
