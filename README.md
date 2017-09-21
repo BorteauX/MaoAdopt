@@ -21,5 +21,5 @@
 <img src = "https://github.com/BorteauX/MaoAdopt/blob/master/21951495_1900769959940331_1446808224_o.jpg?raw=true" width="400px"></img>
 
 <h2>臉書分享</h2><h4>點擊畫面右上角的臉書圖示，就可分享至臉書的個人專頁上，讓更多毛小孩被看見呦~~</h4>
-<img src = "https://github.com/BorteauX/MaoAdopt/blob/master/21951495_1900769959940331_1446808224_o.jpg?raw=true" width="400px"></img>
+<img src = "https://github.com/BorteauX/MaoAdopt/blob/master/21907972_1900769846607009_128550029_o.jpg?raw=true" width="400px"></img>
 <img src ="https://github.com/BorteauX/MaoAdopt/blob/master/21908858_1900769766607017_1732353794_o.jpg?raw=true" width ="400px"></img>
