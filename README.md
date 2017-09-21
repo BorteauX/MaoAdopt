@@ -11,3 +11,5 @@
 <h2>首頁</h2><h4>整個APP用暖色系營造出舒適的感覺，讓使用者在瀏覽毛小孩的檔案時也能感到窩心。</h4>
 <img src ="https://github.com/BorteauX/MaoAdopt/blob/master/adoption.png?raw=true" width="400px"><img>
 
+<h2>注意事項</h2><h4>按下【NOTICE】按鈕，告知使用者若欲認養流浪動物，須具備及注意哪些條件</h4>
+<img src = "https://github.com/BorteauX/MaoAdopt/blob/master/21764160_1894420527241941_709853819_o.png?raw=true"></img>
