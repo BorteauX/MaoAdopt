@@ -4,5 +4,5 @@
 <h3>動機:常常看到一些流浪動物被欺負的新聞，加上自己也有養寵物，所以想利用這個APP幫流浪動物出點力，目前已上架至APPstor，希望大家能多重視這個議題</h3>
 <br />
 
-<img src ="https://github.com/BorteauX/MaoAdopt/blob/master/logo.jpg?raw=true" width="400px"></img>
-<img src ="https://github.com/BorteauX/MaoAdopt/blob/master/qrcode.jpg?raw=true" width ="400px"></img>
+<img src ="https://github.com/BorteauX/MaoAdopt/blob/master/logo.jpg?raw=true" width="450px"></img>
+<img src ="https://github.com/BorteauX/MaoAdopt/blob/master/qrcode.jpg?raw=true" width ="350px"></img>
